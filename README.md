@@ -2,10 +2,16 @@ This is an exciting game developed in C++ using SDL2. In this game, the player c
 
 One unique aspect of this game is the introduction of "light time." As the player reaches a certain score, the scene becomes shrouded in darkness, making the obstacles disappear. To navigate through this challenging phase, the dino must collect coins to illuminate the scene temporarily. This adds a strategic element to the gameplay, requiring players to balance their focus between collecting coins and avoiding obstacles.
 
-![[res/logo.bmp|400]]
+![Logo dino](res/logo.bmp)
+
 ## Table of Contents 
-```toc
-```
+- [Table of contents](#Table_of_Contents)
+- [Features](#Features)
+- [Requirements](#Requirements)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Game Mechanics](#Game_Mechanics)
+ 
 ## Features
 - Player-controlled character with jump mechanics
 - Randomly generated obstacles to avoid
