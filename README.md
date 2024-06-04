@@ -45,7 +45,7 @@ Run the compiled game executable:
 ./SolarSprint
 ```
 
-Or double-click on the SolarSprint.exe file.
+Or double-click on the SolarSprint.exe file if you are on Windows.
 ## Game Mechanics
 ### Controls 
 - `Space`: Make the player character jump. 
